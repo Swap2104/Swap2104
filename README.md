@@ -1,30 +1,13 @@
-<!-- [![An image of @swap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swap)](https://holopin.io/@swap) -->
+<!--[![An image of @swap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swap)](https://holopin.io/@swap) -->
+![](https://komarev.com/ghpvc/?username=Swap2104&style=flat-square)
 
-[![](https://github-readme-stats.vercel.app/api?username=Swap2104&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-<br>![](https://komarev.com/ghpvc/?username=Swap2104&style=flat-square)
-# Languages
-![JavaScript](https://img.shields.io/badge/javascript-282A36.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-282A36.svg?style=for-the-badge&logo=css3&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-html5-282A36.svg?logo=html5&logoColor=orange&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/java-282A36.svg?style=for-the-badge&logo=openjdk&logoColor=red)
-![C](https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=00599C)
-
-# Libraries 
-![node](https://img.shields.io/badge/Node.js-282A36?style=for-the-badge&logo=node.js&logoColor=43853D)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-282A36.svg?style=for-the-badge&logo=Matplotlib&logoColor=23ffffff)
-![NumPy](https://img.shields.io/badge/numpy-282A36.svg?style=for-the-badge&logo=numpy&logoColor=whit23013243e)
-![Pandas](https://img.shields.io/badge/pandas-282A36.svg?style=for-the-badge&logo=pandas&logoColor=23150458)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-282A36?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-
-# Tools and Skills
-![Fedora](https://img.shields.io/badge/Fedora-282A36?style=for-the-badge&logo=fedora&logoColor=0078D4)
-![Git](https://img.shields.io/badge/-git-282A36?logo=git&logoColor=F05032&style=for-the-badge) 
-![Github](https://img.shields.io/badge/-github-282A36?logo=github&logoColor=white&style=for-the-badge)
-![JEST](https://img.shields.io/badge/Jest-282A36?style=for-the-badge&logo=Jest&logoColor=white)
+# 💻 Tech Stack:
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-282A36?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 ![colab](https://img.shields.io/badge/Colab-282A36?style=for-the-badge&logo=googlecolab&color=282A36)
-![bash](https://img.shields.io/badge/GNU%20Bash-282A36?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-282A36?style=for-the-badge&logo=Aseprite&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-282A36?style=for-the-badge&logo=fedora&logoColor=0078D4)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JEST](https://img.shields.io/badge/Jest-282A36?style=for-the-badge&logo=Jest&logoColor=white) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swap2104&langs_count=7&show_icons=true&theme=tokyonight&hide&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Swap2104&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Swap2104&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swap2104&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
